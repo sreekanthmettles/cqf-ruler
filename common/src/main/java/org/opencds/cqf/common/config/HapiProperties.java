@@ -47,6 +47,7 @@ public class HapiProperties {
     static final String ALLOW_CONTAINS_SEARCHES = "allow_contains_searches";
     static final String ALLOW_OVERRIDE_DEFAULT_SEARCH_PARAMS = "allow_override_default_search_params";
     static final String EMAIL_FROM = "email.from";
+    static final String OVER_RIDE_PROPERTIES = "override.properties";
 
     private static Properties properties;
 
